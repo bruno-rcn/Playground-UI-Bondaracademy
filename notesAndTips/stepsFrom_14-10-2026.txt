@@ -1,0 +1,21 @@
+1. Starting the Playwright Project following the setup from the Documentation
+
+2. Creates a new repository on the GitHub
+
+3. Add a README.md file with a initial description of the project
+
+4. Create the branch flow:
+	Master - Should be aways work. Push just from the dev branch
+	dev: Will group all new feature before the master. Every new commit should push here first
+	feature - Create a new branch aways that starting new feature
+
+5. Create the initial Project structor
+- Helpers folder: To add all the files to help us with the project
+- Pages folder: We are going to work with Page Object Model Pattern
+	5.1. Create the Page Object Manager Orchestrator
+
+6. Created the firsts tests to navigation Page
+
+7. Start to automated Form Layout Page
+  . Inline Form
+  . Basic Form
